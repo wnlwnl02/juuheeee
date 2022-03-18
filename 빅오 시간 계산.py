@@ -2,7 +2,9 @@ import time, random
 test
 test2
 2번 사용자2
-2번 사용자1
+
+2번 사용자2
+
 test
 def evaluate_n2(A, x):
 	f2 = 0
