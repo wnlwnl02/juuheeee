@@ -1,4 +1,7 @@
 import time, random
+test
+test2
+
 
 test
 def evaluate_n2(A, x):
