@@ -11,7 +11,7 @@ def evaluate_n2(A, x):
 			x_f = x**j
 		f2 += A[i] * x_f
 	return f2
-	
+	3번을수정 사용자2
 	# code for O(n^2)-time function
 
 def evaluate_n(A, x):
