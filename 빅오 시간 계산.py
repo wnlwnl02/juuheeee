@@ -3,10 +3,10 @@ test
 test2
 2번 사용자2
 2번 사용자1
-
+사용자2
 2번 사용자2
 
-사용자1
+test
 def evaluate_n2(A, x):
 	f2 = 0
 	for i in range(0,n-1):
